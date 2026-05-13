@@ -5,7 +5,7 @@
 ### Democratizing real estate investment through technology and crowdfunding.
 
 <p>
-  <img src="https://img.shields.io/badge/Startup-PropTech-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Startup-FinTech-0A66C2?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Real%20Estate-16A34A?style=for-the-badge">
   <img src="https://img.shields.io/badge/Model-Crowdfunding-F59E0B?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Building-181717?style=for-the-badge">
