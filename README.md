@@ -21,44 +21,6 @@ Igudar is building the infrastructure that makes real estate investment accessib
 
 We believe investing in high-quality real estate should not be limited to institutions or wealthy individuals. Through technology and crowdfunding, we're creating a transparent and accessible platform where people can invest together.
 
----
-
-## What We're Building
-
-### Investment Platform
-- Fractional real estate investing
-- Investor dashboards
-- Portfolio tracking
-- Payment & distribution systems
-- Investment analytics
-
-### Infrastructure
-- Secure backend systems
-- Scalable APIs
-- Self-hosted infrastructure
-- Automated workflows
-- Internal operational tools
-
-### Trust & Transparency
-- Property data systems
-- Reporting pipelines
-- Compliance-oriented architecture
-- Clear investment visibility
-- Real-time platform insights
-
----
-
-## Engineering Stack
-
-```txt
-Frontend      → Vue.js • Next.js • TailwindCSS
-Backend       → Django • FastAPI
-Infrastructure → Docker • Linux • Gitea • Nginx
-Database      → PostgreSQL • Redis
-Languages     → Python • TypeScript • C • Rust
-```
-
----
 
 ## Principles
 
@@ -69,7 +31,6 @@ Languages     → Python • TypeScript • C • Rust
 - Simplicity scales
 - Build fast, improve continuously
 
----
 
 ## Current Focus
 
@@ -79,7 +40,6 @@ Languages     → Python • TypeScript • C • Rust
 - Internal automation
 - Scalable platform architecture
 
----
 
 ## Vision
 
